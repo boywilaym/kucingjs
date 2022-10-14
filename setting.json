@@ -2,7 +2,7 @@
   "name-web":"Sky Sport",
   "author":"MASJEKI",
   "remove-comment-html":true,
-  "target":"https://www.skysports.com",
+  "target":"https://www.stackoverflow.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
